@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysenur</h1>
 <h3 align="center">A passionate learner, interested in data.</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 💬 Ask me about **Python**
 
