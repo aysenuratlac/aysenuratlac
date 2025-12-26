@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Large Language Models**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Artificial Intelligence**
 
 - 📫 How to reach me **aysenuratlac@gmail.com**
 
